@@ -13,7 +13,6 @@ C:\CSharp_Projects\ProMVC_Projects\SportsStore\SportsStore.Domain\bin\Debug\Syst
 C:\CSharp_Projects\ProMVC_Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.xml
 C:\CSharp_Projects\ProMVC_Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\CSharp_Projects\ProMVC_Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
-C:\CSharp_Projects\ProMVC_Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojAssemblyReference.cache
 C:\CSharp_Projects\ProMVC_Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csproj.CopyComplete
 C:\CSharp_Projects\ProMVC_Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 C:\CSharp_Projects\ProMVC_Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
@@ -22,3 +21,4 @@ C:\CSharp_Projects\ProMVC_Projects\SportsStore\SportsStore.Domain\bin\Debug\Enti
 C:\CSharp_Projects\ProMVC_Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
 C:\CSharp_Projects\ProMVC_Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
 C:\CSharp_Projects\ProMVC_Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\CSharp_Projects\ProMVC_Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojAssemblyReference.cache
